@@ -19,8 +19,6 @@ I am a passionate student learning about new technologies and using them as well
 - **Tools:** Git, VS Code
 
 ## 📈 GitHub Stats
-![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidharthvinod24&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthvinod24&layout=compact&theme=radical)
 
 ## ⚡ Fun Fact
