@@ -12,9 +12,7 @@ I am a passionate student learning about new technologies and using them as well
 - Learning about frontend tools such as REACT
 
 ## 📫 How to Reach Me
-- Email: sidharthvinod24@example.com
-- LinkedIn: [Sidharth Vinod](https://www.linkedin.com/in/sidharthvinod24/)
-- Twitter: [@sidharthvinod24](https://twitter.com/sidharthvinod24)
+- LinkedIn: [Sidharth Vinod](https://www.linkedin.com/in/sidharth-vinod-6019441b7/)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, C
@@ -26,7 +24,7 @@ I am a passionate student learning about new technologies and using them as well
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthvinod24&layout=compact&theme=radical)
 
 ## ⚡ Fun Fact
-- I enjoy watching movies 
+- I love watching movies
 
 ---
 
