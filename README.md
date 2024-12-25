@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sidharth Vinod 👋
 
-<!--
-**sidharthvinod24/sidharthvinod24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate student learning about new technologies and using them as well
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Exploring machine learning and data science projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Improving my skills in Data Structures and Alogorithms
+- Practising Leetcode
+- Learning about frontend tools such as REACT
+
+## 📫 How to Reach Me
+- Email: sidharthvinod24@example.com
+- LinkedIn: [Sidharth Vinod](https://www.linkedin.com/in/sidharthvinod24/)
+- Twitter: [@sidharthvinod24](https://twitter.com/sidharthvinod24)
+
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, C
+- **Tools:** Git, VS Code
+
+## 📈 GitHub Stats
+![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidharthvinod24&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthvinod24&layout=compact&theme=radical)
+
+## ⚡ Fun Fact
+- I enjoy watching movies 
+
+---
+
+Feel free to connect with me and let's create something amazing together!
