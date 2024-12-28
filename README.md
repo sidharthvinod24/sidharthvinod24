@@ -12,7 +12,7 @@ I am a passionate student learning about new technologies and using them as well
 - Learning about frontend tools such as REACT
 
 ## 📫 How to Reach Me
-- LinkedIn: [Sidharth Vinod](https://www.linkedin.com/in/sidharth-vinod-6019441b7/)
+- LinkedIn: [Sidharth Vinod](https://www.linkedin.com/in/sidharthvinod24/)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, C
